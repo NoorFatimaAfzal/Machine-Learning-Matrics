@@ -4,7 +4,7 @@
 - Precision is a metric used to evaluate the accuracy of positive predictions made by a classification model.
 - It is defined as the ratio of true positive predictions to the total number of positive predictions (both true positives and false positives).
 
-  ![Precision Formula](r'C:\Users\InfoBay\OneDrive\Desktop\Machine-Learning-Matrics\Classification-Matics\Precision\1.jpg')
+  ![Precision Formula](C:\Users\InfoBay\OneDrive\Desktop\Machine-Learning-Matrics\Classification-Matics\Precision\1.jpg)
 
 ## Importance
 - Precision is particularly important in scenarios where the cost of false positives is high. For example, in medical diagnoses, a false positive may lead to unnecessary treatments or anxiety for patients.
@@ -17,7 +17,7 @@
 ## F1 Score
 - The F1 score is the harmonic mean of precision and recall, providing a single metric that balances both. It is useful when you need a balance between precision and recall.
 
-  ![F1 Score Formula](r'C:\Users\InfoBay\OneDrive\Desktop\Machine-Learning-Matrics\Classification-Matics\Precision\1.jpg')
+  ![F1 Score Formula](C:\Users\InfoBay\OneDrive\Desktop\Machine-Learning-Matrics\Classification-Matics\Precision\2.jpg)
 
 ## Precision-Recall Curve
 - The precision-recall curve is a graphical representation of precision and recall for different thresholds. It helps visualize the trade-off between the two metrics as the decision threshold changes.
